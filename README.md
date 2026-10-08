@@ -22,7 +22,7 @@ Estimar vendas futuras a partir de dados históricos de vendas, com:
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- TensorFlow (dependência já declarada)
+- TensorFlow
 - Jupyter Notebook
 - Poetry (gerenciamento de dependências)
 
